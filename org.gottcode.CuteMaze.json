@@ -19,8 +19,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/cutemaze/cutemaze-1.2.3-src.tar.bz2",
-					"sha256": "1387e9509d4e864e93ed5870d9d1b6be49bb49e485a93ce79ca2a538177a9fbd"
+					"url": "https://gottcode.org/cutemaze/cutemaze-1.2.4-src.tar.bz2",
+					"sha256": "d445f7fffdbded70f3d5c7b5603e98705cf8f71e44f7fd4c6747bf88843ce250"
 				}
 			]
 		}
