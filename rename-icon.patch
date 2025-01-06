@@ -1,0 +1,16 @@
+diff --git a/icons/cutemaze.appdata.xml b/icons/cutemaze.appdata.xml
+index 79351ec..73d47f9 100644
+--- a/icons/cutemaze.appdata.xml
++++ b/icons/cutemaze.appdata.xml
+@@ -75,7 +75,7 @@
+     <binary>cutemaze</binary>
+   </provides>
+   <launchable type="desktop-id">cutemaze.desktop</launchable>
+-  <icon type="stock">cutemaze</icon>
++  <icon type="stock">org.gottcode.CuteMaze</icon>
+ 
+   <categories>
+     <category>Game</category>
+-- 
+2.44.0
+
